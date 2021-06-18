@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tig8\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tig8\\.nuget\\packages"
+    ]
+  }
+}
